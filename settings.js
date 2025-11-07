@@ -46,6 +46,7 @@ global.channel = process.env.LINKCHANNEL
 global.namechannel = process.env.NAMECHANNEL
 global.github = "https://github.com/SoySapo6"
 global.gmail = process.env.EMAIL
+global.namegit = process.env.USERGIT
 global.ch = {
 ch1: process.env.IDCHANNEL
 }
