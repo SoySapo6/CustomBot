@@ -32,16 +32,15 @@ const { chain } = lodash
 const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 
 let { say } = cfonts
-console.log(chalk.magentaBright('\n❀ Iniciando...'))
-say('Yuki Suou', {
-font: 'simple',
-align: 'left',
-gradient: ['green', 'white']
+say(global.normalbot, {
+  font: 'BLOCK',
+  align: 'center',
+  gradient: ['white', 'grey']
 })
-say('Made with love by Destroy', {
-font: 'console',
-align: 'center',
-colors: ['cyan', 'magenta', 'yellow']
+say(`Hecho por ${global.normalowner}`, {
+  font: 'console',
+  align: 'center',
+  colors: ['cyan', 'magenta', 'yellow']
 })
 protoType()
 serialize()
