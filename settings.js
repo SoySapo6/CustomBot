@@ -23,6 +23,8 @@ global.nameqr = "YukiBot-MD"
 global.sessions = "Sessions/Principal"
 global.jadi = "Sessions/SubBot"
 global.yukiJadibts = true
+global.normalowner = "Destroy" // Sin caracteres especiales
+global.normalbot = "Yuki Suou" // Sin caracteres especiales
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
