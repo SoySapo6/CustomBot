@@ -43,6 +43,7 @@ global.catalogo = fs.readFileSync('./lib/catalogo.jpg')
 global.group = process.env.LINKGROUP
 global.community = process.env.LINKCOMMUNITY
 global.channel = process.env.LINKCHANNEL
+global.namechannel = process.env.NAMECHANNEL
 global.github = "https://github.com/SoySapo6"
 global.gmail = process.env.EMAIL
 global.ch = {
