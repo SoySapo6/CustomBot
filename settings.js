@@ -28,7 +28,7 @@ global.normalbot = process.env.NAMEBOT // Sin caracteres especiales
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.botname = ${process.env.BOTNAME}
+global.botname = process.env.BOTNAME
 global.textbot = `${process.env.BOTNAME}, mᥲძᥱ ᥕі𝗍һ ᑲᥡ ${process.env.NAMEOWNER}`
 global.dev = `© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ${process.env.NAMEOWNER}`
 global.author = `© mᥲძᥱ ᥕі𝗍һ ᑲᥡ ${process.env.NAMEOWNER}`
